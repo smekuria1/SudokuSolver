@@ -1,0 +1,46 @@
+solver,puzzle_id,solved,avg_time,avg_calls,avg_checks,max_depth,peak_memory_kb,runs
+Backtracking Solver,puzzle_d22_0,True,0.0005030178400920704,23,709,23,2,50
+Constraint Propagation + MRV,puzzle_d22_0,True,0.00884891430119751,1,648,1,81,50
+Constraint Propagation + Random,puzzle_d22_0,True,0.008719602439959999,1,648,1,66,50
+Backtracking Solver,puzzle_d22_1,True,0.0005278758003260009,24,774,23,1,50
+Constraint Propagation + MRV,puzzle_d22_1,True,0.009071132820390631,1,648,1,68,50
+Constraint Propagation + Random,puzzle_d22_1,True,0.009009698438749183,1,648,1,64,50
+Backtracking Solver,puzzle_d22_2,True,0.0005361141994944773,24,748,23,1,50
+Constraint Propagation + MRV,puzzle_d22_2,True,0.009105194621370175,1,648,1,64,50
+Constraint Propagation + Random,puzzle_d22_2,True,0.008883164900471457,1,648,1,64,50
+Backtracking Solver,puzzle_d30_0,True,0.000794890099496115,31,1068,31,1,50
+Constraint Propagation + MRV,puzzle_d30_0,True,0.008942329742130823,1,648,1,67,50
+Constraint Propagation + Random,puzzle_d30_0,True,0.00882397016044706,1,648,1,66,50
+Backtracking Solver,puzzle_d30_1,True,0.0008074153409688734,32,1011,31,1,50
+Constraint Propagation + MRV,puzzle_d30_1,True,0.008771645558881573,1,648,1,65,50
+Constraint Propagation + Random,puzzle_d30_1,True,0.008622023919015192,1,648,1,64,50
+Backtracking Solver,puzzle_d30_2,True,0.0008104157418711111,32,1046,31,1,50
+Constraint Propagation + MRV,puzzle_d30_2,True,0.00878889087936841,1,648,1,65,50
+Constraint Propagation + Random,puzzle_d30_2,True,0.00867227323964471,1,648,1,65,50
+Backtracking Solver,puzzle_d40_0,True,0.0021887875985703432,74,3064,41,2,50
+Constraint Propagation + MRV,puzzle_d40_0,True,0.008750323541171383,1,648,1,65,50
+Constraint Propagation + Random,puzzle_d40_0,True,0.00872042446047999,1,648,1,64,50
+Backtracking Solver,puzzle_d40_1,True,0.0027870191214606167,88,3689,41,2,50
+Constraint Propagation + MRV,puzzle_d40_1,True,0.008767104019934777,2,648,2,82,50
+Constraint Propagation + Random,puzzle_d40_1,True,0.008800355619459879,2,648,2,82,50
+Backtracking Solver,puzzle_d40_2,True,0.00965068749996135,288,13860,41,2,50
+Constraint Propagation + MRV,puzzle_d40_2,True,0.008900657340709585,1,648,1,65,50
+Constraint Propagation + Random,puzzle_d40_2,True,0.008831545961438678,1,648,1,65,50
+Backtracking Solver,puzzle_d50_0,True,0.023668625040154437,648,29552,51,2,50
+Constraint Propagation + MRV,puzzle_d50_0,True,0.009016139861487318,3,648,3,110,50
+Constraint Propagation + Random,puzzle_d50_0,True,0.009138570159848314,4,650,6,161,50
+Backtracking Solver,puzzle_d50_1,True,0.6328362134599592,15484,767883,51,2,50
+Constraint Propagation + MRV,puzzle_d50_1,True,0.009808509418799077,6,681,6,163,50
+Constraint Propagation + Random,puzzle_d50_1,True,0.009776846820022911,4,679,8,199,50
+Backtracking Solver,puzzle_d50_2,True,0.09481174810003722,2425,121588,51,2,50
+Constraint Propagation + MRV,puzzle_d50_2,True,0.009291561420832295,3,648,3,104,50
+Constraint Propagation + Random,puzzle_d50_2,True,0.0099766436390928,5,687,8,217,50
+Backtracking Solver,puzzle_d60_0,True,0.007169813960208557,172,7335,61,3,50
+Constraint Propagation + MRV,puzzle_d60_0,True,0.010892213540500961,20,648,20,520,50
+Constraint Propagation + Random,puzzle_d60_0,True,0.011034577060781885,12,685,18,451,50
+Backtracking Solver,puzzle_d60_1,True,0.1123936833202606,2496,118143,61,3,50
+Constraint Propagation + MRV,puzzle_d60_1,True,0.010518994621234014,17,648,17,444,50
+Constraint Propagation + Random,puzzle_d60_1,True,0.010757355459791142,13,670,19,475,50
+Backtracking Solver,puzzle_d60_2,True,0.1064444239801378,2174,95859,61,3,50
+Constraint Propagation + MRV,puzzle_d60_2,True,0.010306394619983622,13,648,13,361,50
+Constraint Propagation + Random,puzzle_d60_2,True,0.010906339661742094,10,686,14,353,50
